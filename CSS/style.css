@@ -1,0 +1,142 @@
+.container-1{
+    text-align: center;
+    width: 100%;
+    margin: 0 auto;
+    background-image: url(../images/key-board.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding: 0%;
+    margin: 0%;
+    
+    
+
+  
+    
+}
+.container-2{
+    text-align: center;
+    width: 100%;
+    margin: 0 auto;
+    background-image:url(../images/club-image.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 0%;
+    margin: 0%;
+    
+}
+
+.container-3{
+    border: 1px solid black;
+    text-align: center;
+    width: 100%;
+    margin: 0 auto;
+    background-color: #ecf0f1;
+    
+}
+.Container-4{
+    border: 1px solid black;
+    text-align: center;
+    width: 100%;
+    margin: 0 auto;
+    background-color: #F7A072;
+    font-weight: bold;
+    font-size: 20px;
+}
+.container3-box{
+    padding: 3%;
+    
+}
+.flexbox-rps{
+    display: flex;
+    justify-content:space-around;
+    align-self: center;
+    padding: 3px;
+    flex-direction: row;
+    font-weight: bold;
+    font-size: 17px;
+    font-style: oblique;
+}
+.flexbox-rps-1{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding: 3px;
+    flex-direction: row;
+    font-weight: bold;
+    
+}
+ /* styling search bar */
+ .search input[type=text]{
+    width:200px;
+    height:25px;
+    border-radius:25px;
+    border: none;
+    border: 1px solid black;
+}
+      
+.search{
+    float:right;
+    margin:7px;
+    
+}
+      
+.searchbtn{
+    background-color: #0074D9;
+    float: right;
+    padding: 5px 10px;
+    margin-right: 16px;
+    font-size: 20px;
+    color: black;
+    border: none;
+    cursor: pointer;
+    
+} 
+.flexbox-2{
+    font-size: 60px;
+    color: white;
+    font-weight: bold;
+}
+.flexbox-1{
+    padding: 1px;
+    height: 10px;
+    width: 15%;
+}
+.p{
+    font-size: 50px;
+}
+.img-responsive{
+    width: 30%;
+    float: left;
+}
+.box-1, .box-2{
+   background-color: #EDDEA4;
+    padding: 4%;
+    margin: 10%;
+    font-weight: bold;
+}
+.text-right{
+    text-align: right;
+    text-decoration: none;
+}
+.menu{
+    line-height: 50px;
+}
+.menu ul{
+    padding: 0%;
+    margin: 0%;
+}
+.menu ul li{
+    display: inline;
+    padding: 1%;
+    font-weight: bold;
+    font-size: 18px;
+    font-weight: bold;
+}
+.menu ul li a{
+    text-decoration: none;
+    font-weight: bold;
+}
+p{
+    font-size: 20px;
+}
